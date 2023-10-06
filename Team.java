@@ -7,7 +7,7 @@ public class Team {
         int count = oppo.size();
         ArrayList<String> arr1 = new ArrayList<>();
         ArrayList<String> arr2 = new ArrayList<>();
-        for (int i = 0; i < (count/2); i++) {
+        for (int i = 0; i < (count/2); i++){
             arr1.add(oppo.get(i));
             arr2.add(oppo.get(i+(count)/2));
         }
