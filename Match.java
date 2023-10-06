@@ -24,7 +24,7 @@ public class Match {
         }
 
         // Display the resulting ArrayList of Lists
-//        for (List<String> randomList : resultList) {
+//    for (List<String> randomList : resultList) {
 //            System.out.println(randomList);
 //        }
         return resultList;
